@@ -47,7 +47,7 @@ function init() {
 
     const group = new THREE.Group();
     group.add( new Element( 'TT5CnwK/NIschal-Ghimire.gif', 0, 0, 240, 0 ) );
-    group.add( new Element( 'y87DTzd/NIschal-Ghimire-2.gif', 240, 0, 0, Math.PI / 2 ) );
+    group.add( new Element( 'pjm7fg4/NIschal-Ghimire.gif', 240, 0, 0, Math.PI / 2 ) );
     group.add( new Element( 'n16nGv3/NIschal-Ghimire-3.gif', 0, 0, - 240, Math.PI ) );
     group.add( new Element( 'MSHb1Q0/NIschal-Ghimire-1.gif', - 240, 0, 0, - Math.PI / 2 ) );
     scene.add( group );
